@@ -97,4 +97,4 @@ This isn't a bug — it reflects how real estate agencies often operate (agents 
 
 ## Author
 
-Built by Kadama as part of an ongoing data analytics portfolio.
+Built by Adama as part of an ongoing data analytics portfolio.
